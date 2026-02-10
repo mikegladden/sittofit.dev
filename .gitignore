@@ -1,3 +1,5 @@
 node_modules/
 /test-results/
 
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
